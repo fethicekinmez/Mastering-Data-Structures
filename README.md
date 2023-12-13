@@ -9,5 +9,5 @@
 3. [Arrays](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Arrays)
 4. [Array ADT](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Array%20ADT)
 5. [Strings]()
-6. [Matrix]()
+6. [Matrix](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Matrix)
 7. [Sparse Matrix & Polynomial Representation]()
