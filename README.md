@@ -13,7 +13,7 @@
 7. [Sparse Matrix & Polynomial Representation](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Sparse%20Matrix)
 8. [Linked List](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Linked%20List)
 9. [Sparse Matrix & Polynomial Representation using Linked List](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Sparse%20Matrix%20using%20Linked%20List)
-10. [Stack]()
+10. [Stack](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Stack)
 11. [Queues](https://github.com/fthcknmz/Mastering-Data-Structures/tree/main/Queue)
 12. [Trees]()
 13. [Binary Search Trees]()
